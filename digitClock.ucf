@@ -1,0 +1,37 @@
+
+
+NET "an[3]" LOC = P17;
+NET "an[2]" LOC = P18;
+NET "an[1]" LOC = N15;
+NET "an[0]" LOC = N16;
+NET "buttons[4]" LOC = A8;
+NET "buttons[3]" LOC = C9;
+NET "buttons[2]" LOC = C4;
+NET "buttons[1]" LOC = D9;
+NET "buttons[0]" LOC = B8;
+NET "Seg[0]" LOC = T17;
+NET "Seg[1]" LOC = T18;
+NET "Seg[2]" LOC = U17;
+NET "Seg[3]" LOC = U18;
+NET "Seg[4]" LOC = M14;
+NET "Seg[5]" LOC = N14;
+NET "Seg[6]" LOC = L14;
+NET "clk_100MHz" LOC = V10;
+NET "alarmLed" LOC = R11;
+NET "led_hf" LOC = T11;
+NET "seg_dp" LOC = M13;
+NET "alarmSwitch" LOC = V8;
+#NET "switch_hf" LOC = T5;
+NET "mode[0]" LOC = T10;
+NET "mode[1]" LOC = T9;
+NET "mode[2]" LOC = V9;
+
+
+# PlanAhead Generated physical constraints 
+
+NET "second_leds[0]" LOC = U16;
+NET "second_leds[1]" LOC = V16;
+NET "second_leds[2]" LOC = U15;
+NET "second_leds[3]" LOC = V15;
+NET "second_leds[4]" LOC = M11;
+NET "second_leds[5]" LOC = N11;

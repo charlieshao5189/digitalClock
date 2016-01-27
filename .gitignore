@@ -1,5 +1,13 @@
-# Object file
-*.o
+#ignore all files except *.vhdl , *.ucf , *.xise and *.xise
+*.*
+#vhdl file
+!*.vhd   
 
-# Ada Library Information
-*.ali
+#user constraint file
+!*.ucf  
+
+#ISE project file 
+!*.xise   
+
+#programming file
+!*.bit    
